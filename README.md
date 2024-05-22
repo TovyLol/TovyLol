@@ -1,6 +1,6 @@
 <p> <img src="https://komarev.com/ghpvc/?username=TovyLol" alt="TovyLol" /> </p>
-###Development Tools:
-[![Devving In](https://skillicons.dev/icons?i=java,python,html,css,php,js)](https://skillicons.dev)
+
+[![Skills](https://skillicons.dev/icons?i=java,python,html,css,php,js&flutter&perline=3)](https://skillicons.dev)
 
 
 
