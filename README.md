@@ -4,7 +4,7 @@
 
 
 
-![Screenshot 2024-05-16 165931](https://github.com/TovyLol/TovyLol/assets/146333345/1b397fb3-fae2-4383-b45c-ae7306570134)<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tovylol&show_icons=true&theme=dark&locale=en&layout=compact" alt="tovylol" /></p>
+![Screenshot 2024-05-16 165931](https://github.com/TovyLol/TovyLol/assets/146333345/1b397fb3-fae2-4383-b45c-ae7306570134)<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tovylol&show_icons=true&theme=dark&locale=en&layout=compact" alt="tovylol" /></p>
 
 
 
